@@ -1,6 +1,7 @@
 # Collaborative Notes System
 
 This repository contains a full-stack Collaborative Notes System.
+Website: https://collaborative-notes-three.vercel.app/
 
 Sections:
 - `backend/` - Spring Boot (Java 21, Spring Boot 3) REST API with JWT auth and JPA entities.
